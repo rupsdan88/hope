@@ -1,7 +1,1 @@
-<html>
-<body>
-<head>
-<h1>dsadada</h1>
-</head>
-</body>
-</html>
+<?php include_once("index.html") ?>
